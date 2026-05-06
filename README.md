@@ -1,23 +1,30 @@
 <!-- =========================================================
       PERFIL GITHUB — Amanda da Silva Cruz
-      Data Analytics | Automação | Tecnologia
+      Portfólio | Dados | Automação | BI
 ========================================================== -->
-
-<!-- HERO SECTION PREMIUM -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=260&color=0:fdf2f8,45:eff6ff,100:f0fdfa&section=header&text=Amanda%20da%20Silva%20Cruz&fontSize=48&fontColor=0f172a&animation=fadeIn&desc=Data%20Analytics%20•%20Automation%20•%20Business%20Intelligence&descSize=19&descAlignY=68"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:ffffff,25:fdf2f8,55:dbeafe,80:fef3c7,100:ffffff&section=header&text=Amanda%20da%20Silva%20Cruz&fontSize=50&fontColor=0f172a&fontAlignY=38&animation=twinkling&desc=Data%20Analytics%20•%20Business%20Intelligence%20•%20Automation&descSize=20&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=1000&center=true&vCenter=true&width=900&color=64748B&lines=Python+%7C+MySQL+%7C+Excel+%7C+Power+BI+%7C+n8n;An%C3%A1lise+de+Dados+e+Automa%C3%A7%C3%A3o;Dashboards+%7C+ETL+%7C+Qualidade+de+Dados;Tecnologia+para+otimiza%C3%A7%C3%A3o+de+processos" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=2600&pause=900&center=true&vCenter=true&width=950&color=60A5FA&lines=Analista+de+Dados;Automa%C3%A7%C3%A3o+de+Processos;Business+Intelligence;Qualidade+de+Dados" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Data%20Analytics-f8fafc?style=for-the-badge&logo=googleanalytics&logoColor=7c3aed"/>
-<img src="https://img.shields.io/badge/Automation-f8fafc?style=for-the-badge&logo=n8n&logoColor=ec4899"/>
-<img src="https://img.shields.io/badge/Business%20Intelligence-f8fafc?style=for-the-badge&logo=powerbi&logoColor=f59e0b"/>
+<img src="https://img.shields.io/badge/Python-DBEAFE?style=for-the-badge&logo=python&logoColor=2563EB"/>
+<img src="https://img.shields.io/badge/MySQL-FCE7F3?style=for-the-badge&logo=mysql&logoColor=EC4899"/>
+<img src="https://img.shields.io/badge/Excel-DCFCE7?style=for-the-badge&logo=microsoftexcel&logoColor=16A34A"/>
+<img src="https://img.shields.io/badge/Power%20BI-FEF3C7?style=for-the-badge&logo=powerbi&logoColor=F59E0B"/>
+<img src="https://img.shields.io/badge/n8n-F3E8FF?style=for-the-badge&logo=n8n&logoColor=9333EA"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Data%20Analytics-DBEAFE?style=for-the-badge&logo=googleanalytics&logoColor=2563EB"/>
+<img src="https://img.shields.io/badge/Automation-FCE7F3?style=for-the-badge&logo=n8n&logoColor=EC4899"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence-FEF3C7?style=for-the-badge&logo=powerbi&logoColor=F59E0B"/>
+<img src="https://img.shields.io/badge/Quality%20Data-DCFCE7?style=for-the-badge&logo=checkmarx&logoColor=16A34A"/>
 
 <br><br>
 
@@ -33,56 +40,130 @@
 
 ### Analista de Dados com base analítica sólida construída na biomedicina.
 
-Atuando com:
-
-📊 análise de dados  
-✅ validação de informações  
-📈 monitoramento de indicadores  
-🧪 controle de qualidade  
-⚡ automação de processos  
-
-Perfil analítico orientado à resolução de problemas, confiabilidade de dados e geração de insights para tomada de decisão.
-
-</div>
+Atuando com análise de dados, validação de informações, monitoramento de indicadores, controle de qualidade e automação de processos.
 
 <br>
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="180">
 
-| Tecnologias | Ferramentas | Foco |
-|---|---|---|
-| Python | Excel | ETL |
-| MySQL | Power BI | Dashboards |
-| SQL | n8n | Automação |
-| Data Analysis | Pacote Office | Qualidade de Dados |
+### 📊  
+Análise de Dados
+
+</td>
+<td align="center" width="180">
+
+### ✅  
+Validação
+
+</td>
+<td align="center" width="180">
+
+### 📈  
+Indicadores
+
+</td>
+<td align="center" width="180">
+
+### ⚡  
+Automação
+
+</td>
+</tr>
+</table>
+
+<br>
+
+Perfil analítico, orientado à resolução de problemas, confiabilidade de dados e geração de insights para tomada de decisão.
 
 </div>
 
 ---
 
-# 🚀 Stack Tecnológica
+# 🚀 Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Python-f8fafc?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/MySQL-f8fafc?style=for-the-badge&logo=mysql&logoColor=005C84"/>
-<img src="https://img.shields.io/badge/Excel-f8fafc?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
-<img src="https://img.shields.io/badge/Power%20BI-f8fafc?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-<img src="https://img.shields.io/badge/n8n-f8fafc?style=for-the-badge&logo=n8n&logoColor=EA4B71"/>
-<img src="https://img.shields.io/badge/SQL-f8fafc?style=for-the-badge&logo=sqlite&logoColor=0ea5e9"/>
-<img src="https://img.shields.io/badge/ETL-f8fafc?style=for-the-badge&logo=databricks&logoColor=8b5cf6"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-f8fafc?style=for-the-badge&logo=googleanalytics&logoColor=f472b6"/>
-<img src="https://img.shields.io/badge/Pacote%20Office-f8fafc?style=for-the-badge&logo=microsoftoffice&logoColor=D83B01"/>
+<img src="https://img.shields.io/badge/Python-DBEAFE?style=for-the-badge&logo=python&logoColor=2563EB"/>
+<img src="https://img.shields.io/badge/MySQL-FCE7F3?style=for-the-badge&logo=mysql&logoColor=EC4899"/>
+<img src="https://img.shields.io/badge/SQL-E0F2FE?style=for-the-badge&logo=sqlite&logoColor=0284C7"/>
+<img src="https://img.shields.io/badge/Excel-DCFCE7?style=for-the-badge&logo=microsoftexcel&logoColor=16A34A"/>
+<img src="https://img.shields.io/badge/Power%20BI-FEF3C7?style=for-the-badge&logo=powerbi&logoColor=F59E0B"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence-F3E8FF?style=for-the-badge&logo=googleanalytics&logoColor=9333EA"/>
+<img src="https://img.shields.io/badge/n8n-FCE7F3?style=for-the-badge&logo=n8n&logoColor=DB2777"/>
+<img src="https://img.shields.io/badge/ETL-DBEAFE?style=for-the-badge&logo=databricks&logoColor=2563EB"/>
+<img src="https://img.shields.io/badge/Pacote%20Office-FFF7ED?style=for-the-badge&logo=microsoftoffice&logoColor=EA580C"/>
+<img src="https://img.shields.io/badge/Dashboards-FEF9C3?style=for-the-badge&logo=powerbi&logoColor=CA8A04"/>
+<img src="https://img.shields.io/badge/Automação%20de%20Processos-FCE7F3?style=for-the-badge&logo=n8n&logoColor=EC4899"/>
 
 </div>
 
 ---
 
-# 📊 Áreas de atuação
+# 🧩 Portfólio de Projetos
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="280">
+
+## 📊 Dashboard Operacional
+
+Visualização de indicadores, produtividade e acompanhamento de processos com Excel e Power BI.
+
+</td>
+
+<td align="center" width="280">
+
+## 🤖 Automação com n8n
+
+Criação de fluxos automatizados, integração de ferramentas e redução de tarefas manuais.
+
+</td>
+
+<td align="center" width="280">
+
+## 🗄️ Banco de Dados
+
+Modelagem, consultas SQL, organização de dados e relatórios com MySQL.
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="280">
+
+## 🐍 Python para Dados
+
+Tratamento de dados, ETL, automação de planilhas e geração de insights.
+
+</td>
+
+<td align="center" width="280">
+
+## 📈 BI & Indicadores
+
+Criação de painéis, KPIs e relatórios para apoio à tomada de decisão.
+
+</td>
+
+<td align="center" width="280">
+
+## ✅ Qualidade de Dados
+
+Validação de informações, identificação de inconsistências e controle de confiabilidade.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📌 Áreas de atuação
 
 <div align="center">
 
@@ -94,8 +175,8 @@ Perfil analítico orientado à resolução de problemas, confiabilidade de dados
 
 Indicadores  
 KPIs  
-Dashboards  
-Visualização de Dados  
+Relatórios  
+Visualização de dados  
 
 </td>
 
@@ -127,56 +208,14 @@ Estruturação de dados
 
 ---
 
-# 🌟 Projetos
-
-<details>
-<summary><strong>📂 Projetos em desenvolvimento</strong></summary>
-
-<br>
-
-## 📊 Dashboard Operacional
-
-Monitoramento de indicadores, produtividade e análise visual utilizando Power BI e Excel.
-
----
-
-## 🤖 Automação com n8n
-
-Automação de tarefas, integração entre sistemas e organização de fluxos operacionais.
-
----
-
-## 🗄️ Banco de Dados MySQL
-
-Estruturação de banco de dados para armazenamento, consultas SQL e geração de relatórios.
-
----
-
-## 🐍 Scripts Python
-
-Tratamento de dados, ETL, automação de planilhas e geração de insights.
-
-</details>
-
----
-
-# 📈 GitHub Analytics
+# 🎯 Foco profissional
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=BandeiraPL&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=EC4899&text_color=64748B"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=BandeiraPL&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=64748B"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=14,18,24,25"/>
+<img src="https://img.shields.io/badge/Qualidade%20de%20Dados-FCE7F3?style=for-the-badge&logo=checkmarx&logoColor=EC4899"/>
+<img src="https://img.shields.io/badge/Indicadores%20e%20KPIs-DBEAFE?style=for-the-badge&logo=googleanalytics&logoColor=2563EB"/>
+<img src="https://img.shields.io/badge/Relatórios%20Automatizados-DCFCE7?style=for-the-badge&logo=microsoftexcel&logoColor=16A34A"/>
+<img src="https://img.shields.io/badge/Tomada%20de%20Decisão-FEF3C7?style=for-the-badge&logo=powerbi&logoColor=F59E0B"/>
 
 </div>
 
@@ -187,11 +226,21 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=BandeiraPL&l
 <div align="center">
 
 <a href="mailto:amanda.silvacruzd@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-f8fafc?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <a href="https://www.linkedin.com/in/amanda-cruz-1b2933176/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-f8fafc?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<br><br>
+
+📧 <strong>amanda.silvacruzd@gmail.com</strong>
+
+<br>
+
+💼 <a href="https://www.linkedin.com/in/amanda-cruz-1b2933176/" target="_blank">
+linkedin.com/in/amanda-cruz-1b2933176
 </a>
 
 </div>
@@ -200,7 +249,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=BandeiraPL&l
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:fdf2f8,45:eff6ff,100:f0fdfa"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=64748B&lines=Dados+bem+tratados+geram+decis%C3%B5es+mais+inteligentes.;Automa%C3%A7%C3%A3o+transforma+tempo+em+estrat%C3%A9gia.;Tecnologia+com+prop%C3%B3sito+e+clareza." />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:ffffff,25:fdf2f8,55:dbeafe,80:fef3c7,100:ffffff"/>
 
 </div>
 
