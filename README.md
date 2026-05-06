@@ -51,24 +51,28 @@ Atuando com análise de dados, validação de informações, monitoramento de in
 Análise de Dados
 
 </td>
+
 <td align="center" width="180">
 
 ### ✅  
 Validação
 
 </td>
+
 <td align="center" width="180">
 
 ### 📈  
 Indicadores
 
 </td>
+
 <td align="center" width="180">
 
 ### ⚡  
 Automação
 
 </td>
+
 </tr>
 </table>
 
@@ -89,12 +93,11 @@ Perfil analítico, orientado à resolução de problemas, confiabilidade de dado
 <img src="https://img.shields.io/badge/SQL-E0F2FE?style=for-the-badge&logo=sqlite&logoColor=0284C7"/>
 <img src="https://img.shields.io/badge/Excel-DCFCE7?style=for-the-badge&logo=microsoftexcel&logoColor=16A34A"/>
 <img src="https://img.shields.io/badge/Power%20BI-FEF3C7?style=for-the-badge&logo=powerbi&logoColor=F59E0B"/>
-<img src="https://img.shields.io/badge/Business%20Intelligence-F3E8FF?style=for-the-badge&logo=googleanalytics&logoColor=9333EA"/>
 <img src="https://img.shields.io/badge/n8n-FCE7F3?style=for-the-badge&logo=n8n&logoColor=DB2777"/>
 <img src="https://img.shields.io/badge/ETL-DBEAFE?style=for-the-badge&logo=databricks&logoColor=2563EB"/>
 <img src="https://img.shields.io/badge/Pacote%20Office-FFF7ED?style=for-the-badge&logo=microsoftoffice&logoColor=EA580C"/>
 <img src="https://img.shields.io/badge/Dashboards-FEF9C3?style=for-the-badge&logo=powerbi&logoColor=CA8A04"/>
-<img src="https://img.shields.io/badge/Automação%20de%20Processos-FCE7F3?style=for-the-badge&logo=n8n&logoColor=EC4899"/>
+<img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o%20de%20Processos-FCE7F3?style=for-the-badge&logo=n8n&logoColor=EC4899"/>
 
 </div>
 
@@ -105,10 +108,12 @@ Perfil analítico, orientado à resolução de problemas, confiabilidade de dado
 <div align="center">
 
 <table>
+
 <tr>
+
 <td align="center" width="280">
 
-## 📊 Dashboard Operacional
+### 📊 Dashboard Operacional
 
 Visualização de indicadores, produtividade e acompanhamento de processos com Excel e Power BI.
 
@@ -116,7 +121,7 @@ Visualização de indicadores, produtividade e acompanhamento de processos com E
 
 <td align="center" width="280">
 
-## 🤖 Automação com n8n
+### 🤖 Automação com n8n
 
 Criação de fluxos automatizados, integração de ferramentas e redução de tarefas manuais.
 
@@ -124,17 +129,19 @@ Criação de fluxos automatizados, integração de ferramentas e redução de ta
 
 <td align="center" width="280">
 
-## 🗄️ Banco de Dados
+### 🗄️ Banco de Dados
 
 Modelagem, consultas SQL, organização de dados e relatórios com MySQL.
 
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center" width="280">
 
-## 🐍 Python para Dados
+### 🐍 Python para Dados
 
 Tratamento de dados, ETL, automação de planilhas e geração de insights.
 
@@ -142,7 +149,7 @@ Tratamento de dados, ETL, automação de planilhas e geração de insights.
 
 <td align="center" width="280">
 
-## 📈 BI & Indicadores
+### 📊 BI
 
 Criação de painéis, KPIs e relatórios para apoio à tomada de decisão.
 
@@ -150,12 +157,14 @@ Criação de painéis, KPIs e relatórios para apoio à tomada de decisão.
 
 <td align="center" width="280">
 
-## ✅ Qualidade de Dados
+### ✅ Qualidade de Dados
 
 Validação de informações, identificação de inconsistências e controle de confiabilidade.
 
 </td>
+
 </tr>
+
 </table>
 
 </div>
@@ -167,7 +176,9 @@ Validação de informações, identificação de inconsistências e controle de 
 <div align="center">
 
 <table>
+
 <tr>
+
 <td align="center" width="260">
 
 ### 📈 Data Analytics
@@ -200,7 +211,9 @@ ETL
 Estruturação de dados  
 
 </td>
+
 </tr>
+
 </table>
 
 </div>
@@ -212,8 +225,11 @@ Estruturação de dados
 <div align="center">
 
 <img src="https://img.shields.io/badge/Qualidade%20de%20Dados-FCE7F3?style=for-the-badge&logo=checkmarx&logoColor=EC4899"/>
-<img src="https://img.shields.io/badge/Indicadores%20e%20KPIs-DBEAFE?style=for-the-badge&logo=googleanalytics&logoColor=2563EB"/>
-<img src="https://img.shields.io/badge/Relatórios%20Automatizados-DCFCE7?style=for-the-badge&logo=microsoftexcel&logoColor=16A34A"/>
+
+<img src="https://img.shields.io/badge/KPIs-DBEAFE?style=for-the-badge&logo=googleanalytics&logoColor=2563EB"/>
+
+<img src="https://img.shields.io/badge/Relatórios-DCFCE7?style=for-the-badge&logo=microsoftexcel&logoColor=16A34A"/>
+
 <img src="https://img.shields.io/badge/Tomada%20de%20Decisão-FEF3C7?style=for-the-badge&logo=powerbi&logoColor=F59E0B"/>
 
 </div>
