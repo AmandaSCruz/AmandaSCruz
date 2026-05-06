@@ -1,8 +1,8 @@
 <!-- =========================================================
-      PERFIL GITHUB — Feminino, moderno, IA & RAG/Agentes
+      PERFIL GITHUB — Amanda da Silva Cruz
+      Dados | Automação | Sistemas
 ========================================================== -->
 
-<!-- Banner com gradiente suave feminino -->
 <p align="center">
   <svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
     <defs>
@@ -15,125 +15,176 @@
         <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#00000055"/>
       </filter>
     </defs>
+
     <rect width="1200" height="200" rx="24" fill="url(#grad)"/>
+
     <g filter="url(#softShadow)">
       <text x="50%" y="48%" dominant-baseline="middle" text-anchor="middle"
-            font-family="Segoe UI, Inter, system-ui" font-size="42" fill="#111827">Olá, eu sou a Amanda ✨</text>
+            font-family="Segoe UI, Inter, system-ui" font-size="42" fill="#111827">
+        Olá, eu sou a Amanda ✨
+      </text>
+
       <text x="50%" y="75%" dominant-baseline="middle" text-anchor="middle"
-            font-family="Segoe UI, Inter, system-ui" font-size="20" fill="#111827">Estudante de Inteligência Artificial • RAG • Agentes • MLOps</text>
+            font-family="Segoe UI, Inter, system-ui" font-size="20" fill="#111827">
+        Dados • Automação • Sistemas • Tecnologia
+      </text>
     </g>
   </svg>
 </p>
 
-<!-- Título animado digitando -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=700&lines=Explorando+RAG+%26+LLMs+%F0%9F%A4%96;Desenvolvendo+agentes+inteligentes+%F0%9F%92%BB;Códigos+bonitos+e+responsáveis+%F0%9F%92%AA;Aprendizado+contínuo+%F0%9F%93%9D"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=900&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Python+%7C+MySQL+%7C+Excel+%7C+Power+BI+%7C+n8n;Automatizando+processos+e+organizando+dados;Construindo+solu%C3%A7%C3%B5es+com+tecnologia"
     alt="Frases animadas" />
 </p>
 
-<!-- Divisor com onda -->
 <p>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&section=header"/>
 </p>
 
-<!-- Sobre mim -->
 <h3 align="center">👩🏻‍💻 Sobre mim</h3>
+
 <p align="center">
-  <em>Explorando Inteligência Artificial com foco em RAG, agentes e MLOps.</em><br/>
-  Adoro criar soluções inteligentes, estudar LLMs, e transformar ideias em projetos funcionais.
+  <em>
+    Estudante de Análise e Desenvolvimento de Sistemas com foco em automação,
+    análise de dados, banco de dados e soluções tecnológicas.
+  </em>
 </p>
 
-<!-- Badges de contato -->
 <p align="center">
-  <a href="mailto:amanda.silvacruzd@gmail.com"><img src="https://img.shields.io/badge/email-efefef?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-  <a href="https://www.linkedin.com/in/amanda-cruz-1b2933176/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-efefef?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="https://huggingface.co/SEU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-efefef?style=for-the-badge&logo=huggingface&logoColor=FFAE00" /></a>
-  <a href="https://bandeirapl.github.io" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-efefef?style=for-the-badge&logo=vercel&logoColor=000000" /></a>
+  Tenho interesse em transformar processos manuais em soluções mais eficientes,
+  organizadas e inteligentes utilizando Python, MySQL, Excel, Power BI e n8n.
 </p>
 
-<!-- Highlights em cards simples -->
 <p align="center">
-  <kbd style="padding:12px 16px;border-radius:14px;box-shadow:0 6px 20px #00000014;display:inline-block;margin:6px;">🌸 <strong>Ela/Dela</strong></kbd>
-  <kbd style="padding:12px 16px;border-radius:14px;box-shadow:0 6px 20px #00000014;display:inline-block;margin:6px;">🤖 <strong>RAG & Agentes</strong></kbd>
-  <kbd style="padding:12px 16px;border-radius:14px;box-shadow:0 6px 20px #00000014;display:inline-block;margin:6px;">📚 <strong>LLMs & MLOps</strong></kbd>
-  <kbd style="padding:12px 16px;border-radius:14px;box-shadow:0 6px 20px #00000014;display:inline-block;margin:6px;">🧪 <strong>Experimentação & Ética</strong></kbd>
+  <a href="mailto:amanda.silvacruzd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-efefef?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/amanda-cruz-1b2933176/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-efefef?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+
+  <a href="https://bandeirapl.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-efefef?style=for-the-badge&logo=vercel&logoColor=000000" />
+  </a>
 </p>
 
-<!-- Tech stack -->
-<h3 align="center">🛠️ Tech & Ferramentas</h3>
 <p align="center">
-  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
-  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS"/>
-  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS"/>
-  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart"/>
-  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch"/>
-  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"/>
-  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV"/>
-  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"/>
-  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node"/>
-  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"/>
-  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"/>
+  <kbd>💻 Tecnologia</kbd>
+  <kbd>📊 Dados</kbd>
+  <kbd>⚙️ Automação</kbd>
+  <kbd>🗄️ Banco de Dados</kbd>
+  <kbd>📈 BI</kbd>
 </p>
 
-<!-- O que estou estudando -->
-<h3 align="center">📖 Agora estudando</h3>
+<h3 align="center">🛠️ Tecnologias & Ferramentas</h3>
+
 <p align="center">
-  RAG com <strong>FAISS/Chroma</strong>, LLMs (fine-tuning, LoRA, SFT), <strong>agentes inteligentes</strong> com ferramentas e memória, <strong>MLOps</strong> (deploy, monitoramento, CI/CD), e avaliação de IA (hallucination, factualidade, ética).
+  <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
+
+  <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"/>
+
+  <img height="36" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel"/>
+
+  <img height="36" src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI"/>
+
+  <img height="36" src="https://img.icons8.com/color/48/microsoft-office-2019.png" alt="Pacote Office"/>
+
+  <img height="36" src="https://n8n.io/favicon.ico" alt="n8n"/>
 </p>
 
-<!-- Seções colapsáveis para projetos -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Pacote%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+</p>
+
+<h3 align="center">📖 Atualmente estudando</h3>
+
+<p align="center">
+  Python para análise de dados, MySQL para banco de dados,
+  automação com n8n, dashboards com Excel e Power BI,
+  além de desenvolvimento de sistemas.
+</p>
+
 <details>
-  <summary>🌟 Projetos em destaque (em construção)</summary>
+  <summary>🌟 Projetos em destaque</summary>
+
   <br/>
+
   <ul>
-    <li>🤖 <strong>Assistente RAG</strong>: PDFs → FAISS → LLM com ferramentas e guardrails.</li>
-    <li>🩺 <strong>QA de Documentos</strong>: pipeline de avaliação automática (factualidade, toxicidade, PII).</li>
-    <li>🎬 <strong>Gerador de Roteiros</strong>: prompts estruturados + few-shot + pós-edição.</li>
-    <li>📦 <strong>Template MLOps</strong>: Docker, testes, CI/CD, observabilidade.</li>
-    <li>⚡ Outros projetos futuros: <em>espaço reservado para novidades</em>.</li>
+    <li>📊 Dashboard com Excel e Power BI para acompanhamento de indicadores.</li>
+
+    <li>🤖 Automação de processos utilizando n8n.</li>
+
+    <li>🗄️ Sistema de controle utilizando MySQL.</li>
+
+    <li>🐍 Scripts Python para tratamento e análise de dados.</li>
+
+    <li>📈 Relatórios automatizados para organização operacional.</li>
   </ul>
+
 </details>
 
 <details>
-  <summary>💡 Valores & estilo de código</summary>
+  <summary>💡 Áreas de interesse</summary>
+
   <br/>
+
   <ul>
-    <li>❤️ Legibilidade e boas práticas acima de tudo (docstrings, tipagem, testes).</li>
-    <li>🧱 Arquitetura sólida, SOLID, clean code.</li>
-    <li>🧭 Segurança, privacidade e ética desde o design.</li>
-    <li>🧪 Experimentos reprodutíveis com rastreabilidade e versionamento.</li>
+    <li>Automação de processos</li>
+    <li>Análise de dados</li>
+    <li>Banco de dados</li>
+    <li>Business Intelligence</li>
+    <li>Python</li>
+    <li>Desenvolvimento de sistemas</li>
   </ul>
+
 </details>
 
-<!-- Métricas -->
-<h3 align="center">📊 Estatísticas</h3>
+<h3 align="center">📊 Estatísticas do GitHub</h3>
+
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=BandeiraPL&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=BandeiraPL&hide_border=true" alt="Streak"/>
-</p>
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BandeiraPL&layout=compact&hide_border=true" alt="Top Langs"/>
+
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=BandeiraPL&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<!-- Roadmap / badges -->
-<h3 align="center">🗺️ Roadmap 2025</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/1.-Fundamentos%20Sólidos-pink?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/2.-LLMs%20%26%20RAG-lavender?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/3.-Agentes%20%26%20Ferramentas-mint?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/4.-MLOps%20%26%20Deploy-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/5.-Avaliação%20%26%20Segurança-gray?style=for-the-badge"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BandeiraPL&layout=compact&hide_border=true" alt="Top Languages"/>
 </p>
 
-<!-- Frase final -->
+<h3 align="center">🗺️ Roadmap de estudos</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-An%C3%A1lise%20de%20Dados-blue?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/MySQL-Banco%20de%20Dados-blue?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/PowerBI-Dashboards-yellow?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/n8n-Automa%C3%A7%C3%B5es-red?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Tecnologia-Em%20evolu%C3%A7%C3%A3o-green?style=for-the-badge"/>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&section=footer"/>
-  <br/>
-  <sub>“Código com propósito, IA com responsabilidade.” — 🌷 Amanda</sub>
 </p>
 
-<!-- Visitantes -->
+<p align="center">
+  <sub>✨ Construindo soluções com tecnologia, dados e automação.</sub>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BandeiraPL&style=flat-square&label=visitas"/>
 </p>
