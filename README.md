@@ -5,26 +5,25 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:ffffff,25:fdf2f8,55:dbeafe,80:fef3c7,100:ffffff&section=header&text=Amanda%20da%20Silva%20Cruz&fontSize=50&fontColor=0f172a&fontAlignY=38&animation=twinkling&desc=Data%20Analytics%20•%20Business%20Intelligence%20•%20Automation&descSize=20&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ffffff,25:fdf2f8,55:dbeafe,80:fef3c7,100:ffffff&section=header&text=Amanda%20da%20Silva%20Cruz&fontSize=50&fontColor=374151&fontAlignY=38&animation=twinkling&desc=Data%20Analytics%20•%20Business%20Intelligence%20•%20Automation&descSize=20&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=2600&pause=900&center=true&vCenter=true&width=950&color=60A5FA&lines=Analista+de+Dados;Automa%C3%A7%C3%A3o+de+Processos;Business+Intelligence;Qualidade+de+Dados" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=2600&pause=900&center=true&vCenter=true&width=950&color=4B5563&lines=Analista+de+Dados;Automa%C3%A7%C3%A3o+de+Processos;Business+Intelligence;Qualidade+de+Dados" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Python-DBEAFE?style=for-the-badge&logo=python&logoColor=2563EB"/>
-<img src="https://img.shields.io/badge/MySQL-FCE7F3?style=for-the-badge&logo=mysql&logoColor=EC4899"/>
-<img src="https://img.shields.io/badge/Excel-DCFCE7?style=for-the-badge&logo=microsoftexcel&logoColor=16A34A"/>
-<img src="https://img.shields.io/badge/Power%20BI-FEF3C7?style=for-the-badge&logo=powerbi&logoColor=F59E0B"/>
-<img src="https://img.shields.io/badge/n8n-F3E8FF?style=for-the-badge&logo=n8n&logoColor=9333EA"/>
+<a href="mailto:amanda.silvacruzd@gmail.com">
+<img src="https://img.shields.io/badge/Email-FCE7F3?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
 
-<br><br>
+<a href="https://wa.me/5511949964527" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-DCFCE7?style=for-the-badge&logo=whatsapp&logoColor=16A34A"/>
+</a>
 
-<img src="https://img.shields.io/badge/Data%20Analytics-DBEAFE?style=for-the-badge&logo=googleanalytics&logoColor=2563EB"/>
-<img src="https://img.shields.io/badge/Automation-FCE7F3?style=for-the-badge&logo=n8n&logoColor=EC4899"/>
-<img src="https://img.shields.io/badge/Business%20Intelligence-FEF3C7?style=for-the-badge&logo=powerbi&logoColor=F59E0B"/>
-<img src="https://img.shields.io/badge/Quality%20Data-DCFCE7?style=for-the-badge&logo=checkmarx&logoColor=16A34A"/>
+<a href="https://www.linkedin.com/in/amanda-cruz-1b2933176/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-DBEAFE?style=for-the-badge&logo=linkedin&logoColor=2563EB"/>
+</a>
 
 <br><br>
 
@@ -221,35 +220,9 @@ Estruturação de dados
 
 ---
 
-# 🌐 Contato
-
 <div align="center">
 
-<a href="mailto:amanda.silvacruzd@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-<a href="https://www.linkedin.com/in/amanda-cruz-1b2933176/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-<br><br>
-
-📧 <strong>amanda.silvacruzd@gmail.com</strong>
-
-<br>
-
-💼 <a href="https://www.linkedin.com/in/amanda-cruz-1b2933176/" target="_blank">
-linkedin.com/in/amanda-cruz-1b2933176
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=64748B&lines=Dados+bem+tratados+geram+decis%C3%B5es+mais+inteligentes.;Automa%C3%A7%C3%A3o+transforma+tempo+em+estrat%C3%A9gia.;Tecnologia+com+prop%C3%B3sito+e+clareza." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=4B5563&lines=Dados+bem+tratados+geram+decis%C3%B5es+mais+inteligentes.;Automa%C3%A7%C3%A3o+transforma+tempo+em+estrat%C3%A9gia.;Tecnologia+com+prop%C3%B3sito+e+clareza." />
 
 <br><br>
 
